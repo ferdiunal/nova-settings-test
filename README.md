@@ -3,11 +3,11 @@
 Test repo for Nova Settings
 
 ```bash
-    git clone git@github.com:ferdiunal/nova-settings-test.git
+git clone git@github.com:ferdiunal/nova-settings-test.git
 ```
 
 ```bash
-    composer install
+composer install
 ```
 
 ```bash
