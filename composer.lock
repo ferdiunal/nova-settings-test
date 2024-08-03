@@ -721,16 +721,16 @@
         },
         {
             "name": "ferdiunal/nova-settings",
-            "version": "v1.0.6",
+            "version": "v1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ferdiunal/nova-settings.git",
-                "reference": "e1fd5dfb95a16c826b806b8f70aefd06b96af473"
+                "reference": "d1d22932541f5b81f0e9434b2660204683b6dffc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ferdiunal/nova-settings/zipball/e1fd5dfb95a16c826b806b8f70aefd06b96af473",
-                "reference": "e1fd5dfb95a16c826b806b8f70aefd06b96af473",
+                "url": "https://api.github.com/repos/ferdiunal/nova-settings/zipball/d1d22932541f5b81f0e9434b2660204683b6dffc",
+                "reference": "d1d22932541f5b81f0e9434b2660204683b6dffc",
                 "shasum": ""
             },
             "require": {
@@ -778,7 +778,7 @@
             ],
             "support": {
                 "issues": "https://github.com/ferdiunal/nova-settings/issues",
-                "source": "https://github.com/ferdiunal/nova-settings/tree/v1.0.6"
+                "source": "https://github.com/ferdiunal/nova-settings/tree/v1.0.7"
             },
             "funding": [
                 {
@@ -790,7 +790,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-07-11T21:09:46+00:00"
+            "time": "2024-08-03T11:50:16+00:00"
         },
         {
             "name": "fruitcake/php-cors",
